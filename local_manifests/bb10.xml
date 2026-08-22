@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github-bb10" fetch="https://github.com/dragan-novakovic" />
+
+  <remove-project name="applications_launcher" />
+  <remove-project name="applications_screenlock" />
+  <remove-project name="applications_systemui" />
+
+  <project
+    name="openharmony-applications-launcher"
+    path="applications/standard/launcher"
+    remote="github-bb10"
+    revision="c54ae00d3fe291a8f15a9da600abe8c8a6c43361"
+    clone-depth="1" />
+  <project
+    name="openharmony-applications-screenlock"
+    path="applications/standard/screenlock"
+    remote="github-bb10"
+    revision="5f36dc36b43ed4c428f1b9491a94162a38bf4c29"
+    clone-depth="1" />
+  <project
+    name="openharmony-applications-systemui"
+    path="applications/standard/systemui"
+    remote="github-bb10"
+    revision="55c60b28818f6362e28807dbe81c314f6827da13"
+    clone-depth="1" />
+</manifest>
