@@ -10,7 +10,7 @@
     name="openharmony-applications-launcher"
     path="applications/standard/launcher"
     remote="github-bb10"
-    revision="c54ae00d3fe291a8f15a9da600abe8c8a6c43361"
+    revision="fe02671736a429e89255c7cb48edad092c3867b2"
     clone-depth="1" />
   <project
     name="openharmony-applications-screenlock"

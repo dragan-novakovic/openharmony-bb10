@@ -3,15 +3,20 @@
 BlackBerry 10-inspired phone shell for OpenHarmony 6.0:
 
 - launcher grid, dark overlay, compact spacing, and dock
+- BlackBerry Hub overlay with live notifications, priority/source filters, search, open, and dismiss actions
 - lock-screen clock, notification timeline, and camera shortcut
 - dark SystemUI, status/navigation bars, shade, and control center
 - dark square keyboard with suggestions and cyan accents
 
 ## Screenshots
 
-| Launcher | Lock screen | Keyboard |
-| --- | --- | --- |
-| ![Launcher](screenshots/launcher.jpg) | ![Lock screen](screenshots/lockscreen.jpg) | ![Keyboard](screenshots/keyboard.jpg) |
+| Launcher | BlackBerry Hub |
+| --- | --- |
+| ![Launcher](screenshots/launcher.jpg) | ![BlackBerry Hub](screenshots/hub.jpg) |
+
+| Lock screen | Keyboard |
+| --- | --- |
+| ![Lock screen](screenshots/lockscreen.jpg) | ![Keyboard](screenshots/keyboard.jpg) |
 
 ## Source repositories
 
